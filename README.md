@@ -52,7 +52,7 @@ Bake resolution = 80
 
 IOS Platform App
 
-5-6 light sources ( _uncompressed lightmap )
+5-6 light sources ( _uncompressed lightmap_ )
 
 # GVRViewer
 
