@@ -58,7 +58,7 @@ IOS Platform App
 
  GVR_SDK_VERSION = "1.1"
  
- https://developers.google.com/vr/unity/reference/class/gvr-viewer
+ <ahref="https://developers.google.com/vr/unity/reference/class/gvr-viewer">Here</a>
  
 ## Challenge 
 
