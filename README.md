@@ -18,11 +18,11 @@ It's the second project in Udacity VR developer nanodegree that allows the users
 
 # Installation 
 
-1- Setup your Unity3D Version 5.xx or higher
+1- Setup your `Unity3D` Version **5.xx** or higher
 
-2- Xcode for IOS building
+2- `Xcode` for IOS building
 
-3- Make sure that there is already MonoDevelop installed 
+3- Make sure that there is already **MonoDevelop** installed 
 
 # Steps 
 
@@ -52,7 +52,7 @@ Bake resolution = 80
 
 IOS Platform App
 
-5-6 light sources ( uncompressed lightmap )
+5-6 light sources ( _uncompressed lightmap )
 
 # GVRViewer
 
@@ -66,4 +66,4 @@ is that to optimize the performance ( 60 or high FPS ) and wtih highest graphic 
 
 # License
 
-Udacity_VR_ND_P2 is a public domain work, dedicated using MIT License . Feel free to do whatever you want with it.
+`Udacity_VR_ND_P2` is a public domain work, dedicated using **MIT License** . Feel free to do whatever you want with it.
