@@ -45,6 +45,10 @@ IOS Platform App
  GVR_SDK_VERSION = "1.1"
  
  https://developers.google.com/vr/unity/reference/class/gvr-viewer
+ 
+# Challenge 
+
+is that to optimize the performance ( 60 or high FPS ) and wtih highest graphic and resolution that can to be 
 
 # License
 
