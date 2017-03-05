@@ -1,16 +1,16 @@
 # FileContent
 
-1- Brief description
+* Brief description
 
-2- Programs you necessary need 
+* Programs you necessary need 
 
-3- Few steps to build your app
+* Few steps to build your app
 
-4- Other Info
+* Other Info
 
-5- The Challenge 
+* The Challenge 
 
-6- License
+* License
 
 ## ModernApartmenVRScene
 
@@ -26,27 +26,27 @@ It's the second project in Udacity VR developer nanodegree that allows the users
 
 ## Steps 
 
-app building specifications 
+* App building specifications 
  
-Product Name = “Course 2 Project”
+* Product Name = “Course 2 Project”
 
-Default Orientation: ""Landscape Left""
+* Default Orientation: ""Landscape Left""
 
-Texture Quality: Full Res
+* Texture Quality: Full Res
 
-Anti Aliasing: 2x Multi Sampling
+* Anti Aliasing: 2x Multi Sampling
 
-NO Soft Particles
+* NO Soft Particles
 
-NO Realtime rendering probes
+* NO Realtime rendering probes
 
-NO Billboards face camera position
+* NO Billboards face camera position
 
-Shadows: Disable Shadows
+* Shadows: Disable Shadows
 
-Blend Weights: 1 bone
+* Blend Weights: 1 bone
 
-Bake resolution = 80
+* Bake resolution = 80
 
 ## Other Info 
 
