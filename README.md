@@ -1,6 +1,6 @@
 # ModernApartmenVRScene
 
-It's the second project in Udacity VR developer nanodegree that allows the users to see modern apartment in vr camera 
+It's the second project in Udacity VR developer nanodegree that allows the users to see modern apartment in vr Mood 
 
 # Installation 
 
