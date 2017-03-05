@@ -1,4 +1,5 @@
 MyName :- Khalid Soliman Ali
+
 Time to Create :- 180-200 mints 
 
 i Develop to IOS Platform
@@ -24,3 +25,8 @@ Bake resolution = 80
 uncompressed lightmap
 
  GVR_SDK_VERSION = "1.1"
+
+
+License
+
+Udacity_VR_ND_P2 is a public domain work, dedicated using MIT License . Feel free to do whatever you want with it.
