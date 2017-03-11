@@ -38,13 +38,7 @@ It's the second project in Udacity VR developer nanodegree that allows the users
 
 * NO Soft Particles
 
-* NO Realtime rendering probes
-
-* NO Billboards face camera position
-
 * Shadows: Disable Shadows
-
-* Blend Weights: 1 bone
 
 * Bake resolution = 80
 
